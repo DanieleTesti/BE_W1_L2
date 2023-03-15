@@ -1,4 +1,5 @@
-package L2;
+package BE_W1_L2.src.L2;
+
 
 public class MainEsercizio {
 
